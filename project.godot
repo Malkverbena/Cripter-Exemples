@@ -1,0 +1,17 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
+
+config_version=5
+
+[application]
+
+config/name="Cripter_Exemple_GD4"
+config/tags=PackedStringArray("demo", "exemple", "test")
+run/main_scene="uid://b2x3dy8mnvttx"
+config/features=PackedStringArray("4.4", "Double Precision", "Forward Plus")
+config/icon="uid://beft3tmbr1np1"

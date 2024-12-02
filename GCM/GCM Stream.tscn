@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://b2x3dy8mnvttx"]
+
+[ext_resource type="Script" uid="uid://br4ni5fw45jrg" path="res://GCM/gcm_stream.gd" id="1_b81xm"]
+
+[node name="GCM Stream" type="Control"]
+layout_mode = 3
+anchors_preset = 0
+script = ExtResource("1_b81xm")
+in_chunk = true

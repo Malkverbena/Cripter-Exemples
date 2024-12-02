@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://dr4ljka6m580i"]
+
+[ext_resource type="Script" uid="uid://b3youeasf5ud6" path="res://GCM/gcm_crypt.gd" id="1_vnx7k"]
+
+[node name="GCM crypt" type="Node"]
+script = ExtResource("1_vnx7k")

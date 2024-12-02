@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://bok57kwdolkx7"]
+
+[ext_resource type="Script" uid="uid://b0utwvw5rhvqs" path="res://Basic/basic.gd" id="1_wag7k"]
+
+[node name="Basic" type="Node"]
+script = ExtResource("1_wag7k")
+show_available_curves = false
